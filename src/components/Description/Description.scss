@@ -1,0 +1,33 @@
+.description{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+
+    h1,p{
+        position: absolute;
+        margin: 15% 30%;
+        color: oldlace;
+        font-size: 2rem;
+    }
+
+    h1{
+        font-size: 3rem;
+    }
+
+    p{
+        top: 55px;
+    }
+
+    img{
+        width: 100%;
+        overflow: hidden;
+        height: 99.4vh;
+    }
+
+    .button{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+    }
+}
+
