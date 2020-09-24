@@ -8,7 +8,7 @@ const CreateProduct = () => {
         <div className="create">
             <Create />
             <Draggable>
-            <img src="https://www.iconfinder.com/data/icons/gears-wheels-blades/512/bike_wheel-512.png" width="200"/>
+            <img src="https://www.iconfinder.com/data/icons/gears-wheels-blades/512/bike_wheel-512.png" width="200" alt="stand"/>
             </Draggable>
         </div>
     );
