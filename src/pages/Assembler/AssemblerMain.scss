@@ -19,3 +19,12 @@ h1{
     width: 70%;
 }
 
+@media only screen and (max-width: 570px) {
+    .left-portion{
+        width: 70%;
+    }
+
+    .right-portion{
+        width: 20%;
+    }
+}
